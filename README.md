@@ -27,3 +27,5 @@ Automate Terraform code validation using GitHub Actions.
 - GitHub Actions workflow.
 - Workflow status badge.
 - Successful pipeline screenshot.
+
+![Terraform CI Validation](https://github.com/Rithik-notbot/Project-07-Terraform-CI-Validation/actions/workflows/terraform.yml/badge.svg)
